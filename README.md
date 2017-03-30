@@ -14,8 +14,9 @@ To avoid pull conflicts running the following in the terminal:
   
 
 Gold Team - "Setting the gold standard in this class"
-       Jim Webb         C.J Cherry
-       Reed Arnold      Evan LeClair
+
+       Jim Webb,         C.J Cherry,
+       Reed Arnold,      Evan LeClair
 
 
 Blue Team
