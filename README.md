@@ -12,6 +12,12 @@ To avoid pull conflicts running the following in the terminal:
   
   git pull 
   
+
+Gold Team - "Setting the gold standard in this class"
+       Jim Webb         C.J Cherry
+       Reed Arnold      Evan LeClair
+
+
 Blue Team
 - Diego Holguin
 - Nick Rizzo
