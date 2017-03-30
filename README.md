@@ -5,6 +5,7 @@ To Clone via Command Line: git clone https://github.com/CSC320/Compilers.git
 More Help: http://readwrite.com/2013/10/02/github-for-beginners-part-2/
 
 To avoid pull conflicts running the following in the terminal:
+  
   git clean -dn
   
   git clean -df
