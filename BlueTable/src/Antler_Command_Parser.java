@@ -23,9 +23,9 @@ public class Antler_Command_Parser
 			if(i == 0)
 			{
 				// Obtain the index values used for parsing 
-				int spaceIndex = workingString.indexOf(" "); System.out.println("Space Index: " + spaceIndex);
-				int colinIndex = workingString.indexOf(":"); System.out.println("Colin Index: " + colinIndex);
-				int endOfCommand = workingString.indexOf("-"); System.out.println("End Index: " + endOfCommand);
+				int spaceIndex = workingString.indexOf(" ");
+				int colinIndex = workingString.indexOf("_"); 
+				int endOfCommand = workingString.indexOf("-"); 
 				
 				// Parse the corressponding id and data from the user input 
 				String idString = workingString.substring(spaceIndex + 1, colinIndex);
@@ -45,7 +45,7 @@ public class Antler_Command_Parser
 			{
 				// Obtain the index values used for parsing 
 				int ampersandIndex = workingString.indexOf("&");
-				int colinIndex = workingString.indexOf(":");
+				int colinIndex = workingString.indexOf("_");
 				int endOfCommand = workingString.indexOf("-");
 				
 				// Parse the corressponding id and data from the user input
